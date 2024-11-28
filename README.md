@@ -1,21 +1,20 @@
-# Gifter - CRUD Flutter N2
-Projeto avaliativo 4º Semetre de engenharia de software, na matéria de Desenvolvimento Mobile.
+# Lista de Compras - CRUD Flutter N2
+Projeto avaliativo do 4º Semestre de Engenharia de Software, na matéria de Desenvolvimento Mobile.
 
-## Proposta de desenvolvimento:
-App Organizador de Presentes
+## Proposta de Desenvolvimento:
+Aplicativo para Gerenciar Itens de Compras
 
-- Objetivo: Registrar presentes que pretende dar ou já deu, com breve descrição.
+- **Objetivo**: Permitir que os usuários adicionem, editem e excluam itens que precisam ser comprados no mercado, facilitando a organização das compras.
 
-## O projeto
+## Funcionalidades do Projeto
 
-Atualmente, projeto:
+1. **Página Inicial**: Exibe a lista de itens de compras.
+2. **Adicionar Item**: Permite que o usuário adicione um novo item à lista.
+3. **Editar Item**: Permite que o usuário edite os detalhes de um item existente.
+4. **Excluir Item**: Permite que o usuário remova um item da lista.
 
-1. Página inicial com adição de presentes
+## Autor
 
-| <img src="https://imgur.com/Ou1ypIt.png" />  | <img src="https://i.imgur.com/HHJqufJ.png" />  |
-| ----- | ----- |
-| <p align="center">Lista</p> | <p align="center">Adicionando</p> |
+**André Gustavo Specht**
 
-## Contas Pessoais
-
-[<img src="https://avatars.githubusercontent.com/u/97479966" width="60"/>![span](https://placehold.co/10x60/FFA500/FFA500.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Victor%20Rocha)](https://victorrochar.github.io)
+Sinta-se à vontade para entrar em contato para mais informações ou sugestões sobre o projeto.
