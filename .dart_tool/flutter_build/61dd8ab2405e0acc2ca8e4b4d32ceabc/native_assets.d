@@ -1,0 +1,1 @@
+ /Users/specht/AndroidStudioProjects/proj_firebase-main/.dart_tool/flutter_build/61dd8ab2405e0acc2ca8e4b4d32ceabc/native_assets.yaml: 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784207429650",
+    "project_id": "devmobilefacuk",
+    "storage_bucket": "devmobilefacuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784207429650:android:fd873d9e73b4e9b25858cb",
+        "android_client_info": {
+          "package_name": "com.example.proj_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AdAu9vpmAyqa3XHajx4zvKZYBADBiCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784207429650:android:934d606a4daa6f6b5858cb",
+        "android_client_info": {
+          "package_name": "com.faculdade.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AdAu9vpmAyqa3XHajx4zvKZYBADBiCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
